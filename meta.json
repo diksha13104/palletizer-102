@@ -12,7 +12,7 @@
   ],
 
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/diksha13104/palletizer-102",
   "description": "Autonomous palletizing service that controls a robotic arm to pick and place boxes onto pallets.",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
